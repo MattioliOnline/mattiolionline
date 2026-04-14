@@ -8,7 +8,7 @@
 - **Focus:** Cyber security with WAZUH (SIEM/SOAR) and AI-driven security strategies
 - **Background:** Business administration + IT systems integration specialist
 
-🌱## Tech Stack
+🌱 ## Tech Stack
 
 ```
 Security        │ WAZUH · SIEM · SOAR · Intrusion Detection
@@ -16,13 +16,13 @@ Infrastructure  │ Linux · Virtualization · Networking
 AI              │ Claude · LLM Integration · AI Workflows
 ```
 
-🔭## Current Projects 🔭
+🔭 ## Current Projects 🔭
 
 - Building WAZUH as a full SIEM/SOAR solution for the clinic network
 - Systematically developing AI competence and integrating it into daily IT operations
 - Establishing a proactive cyber security strategy powered by AI
 
-📫## Contact
+📫 ## Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-MattioliOnline-181717?logo=github)](https://github.com/MattioliOnline)
 
