@@ -22,8 +22,8 @@ AI              │ Claude · LLM Integration · AI Workflows
 - Systematically developing AI competence and integrating it into daily IT operations
 - Establishing a proactive cyber security strategy powered by AI
 
-## Contact 📫 
-## 📱 Connect with me
+
+## 📱 📫 Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-MattioliOnline-181717?logo=github)](https://github.com/MattioliOnline)
 
