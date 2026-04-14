@@ -16,7 +16,7 @@ Infrastructure  │ Linux · Virtualization · Networking
 AI              │ Claude · LLM Integration · AI Workflows
 ```
 
-## Current Projects 🔭
+## 🔭 Current Projects 🔭
 
 - Building WAZUH as a full SIEM/SOAR solution for the clinic network
 - Systematically developing AI competence and integrating it into daily IT operations
