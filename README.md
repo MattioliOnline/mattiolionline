@@ -23,9 +23,12 @@ AI              │ Claude · LLM Integration · AI Workflows
 - Establishing a proactive cyber security strategy powered by AI
 
 ## Contact 📫 
+## 📱 Connect with me
 
 [![GitHub](https://img.shields.io/badge/GitHub-MattioliOnline-181717?logo=github)](https://github.com/MattioliOnline)
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ralf-mattioli-057159401)
 <!--
 **MattioliOnline/mattiolionline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
