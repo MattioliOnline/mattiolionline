@@ -8,7 +8,7 @@
 - **Focus:** Cyber security with WAZUH (SIEM/SOAR) and AI-driven security strategies
 - **Background:** Business administration + IT systems integration specialist
 
-🌱 ## Tech Stack
+🌱 ##🌱 Tech Stack
 
 ```
 Security        │ WAZUH · SIEM · SOAR · Intrusion Detection
