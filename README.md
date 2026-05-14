@@ -4,8 +4,8 @@
 
 ## What I do
 
-- **Day job:** IT lead at a rehabilitation clinic in Thuringia — responsible for infrastructure, networking, and virtualization
-- **Focus:** Cyber security with WAZUH (SIEM/SOAR) and AI-driven security strategies
+- **Day job:** IT lead at a rehabilitation clinic in Thuringia — responsible for infrastructure, networking and virtualization
+- **Focus:** Cyber security with WAZUH (SIEM/SOAR) and AI-driven security strategies and automation
 - **Background:** Business administration + IT systems integration specialist
 
 ## Tech Stack 🌱
